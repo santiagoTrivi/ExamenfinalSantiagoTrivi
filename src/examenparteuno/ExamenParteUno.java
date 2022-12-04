@@ -63,7 +63,6 @@ public class ExamenParteUno {
      */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
-        /*
         
         System.out.println("---------------parte1: lista circular doblemente enlazada------------------");
         listaEnlazada lista = new listaEnlazada();
@@ -106,7 +105,7 @@ public class ExamenParteUno {
         System.out.println(comp2);
         
         System.out.println("---------------parte3: lista simple------------------");
-*/
+
         ListaSimple listaS = new ListaSimple();
         listaS.insertar(1);
         listaS.insertar(2);
@@ -120,7 +119,6 @@ public class ExamenParteUno {
         listaS.insertar(20);
         listaS.mostrar();
         //listaS.modoinverso();
-        listaS.motrarultimo();
         System.out.println("---------------parte4:------------------");
         System.out.println("¿Cuál es el archivo que permite ignorar los cambios que se realicen sobre determinados archivos dentro de un repositorio?");
         System.out.println("Respuesta: .gitignore");

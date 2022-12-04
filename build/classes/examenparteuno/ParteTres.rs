@@ -1,6 +1,0 @@
-examenparteuno.ListaSimple
-examenparteuno.LinkedList
-examenparteuno.Node
-examenparteuno.ParteTres
-examenparteuno.ListaSimple$ParteTres
-examenparteuno.LinkedList$ParteTres
