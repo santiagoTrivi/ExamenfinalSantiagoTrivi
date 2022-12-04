@@ -1,0 +1,3 @@
+examenparteuno.matrizComparacion
+examenparteuno.matriz
+examenparteuno.ParteDos
